@@ -26,7 +26,7 @@ reverse('world');
 
 #### Technology skills
 
-HTML, CSS, JavaScript
+Markdown, HTML, CSS, JavaScript
 
 
 #### Professional experience
@@ -43,4 +43,4 @@ HTML, CSS, JavaScript
 * Russian: Native
 
 #### Courses
-CS50
+CS50, HTML academy
