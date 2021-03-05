@@ -1,1 +1,1 @@
-https://ValeryiaMIRON.github.io/rsschool-cv/
+https://ValeryiaMIRON.github.io/rsschool-cv/cv
