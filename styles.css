@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    min-width: 960px;
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 32px;
+    background-color: black;
+    color: bisque;
+  }
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 16px; 
+  }
+
+
+  .page-footer .container {
+    max-width: 1408px;
+    text-align: right;
+    background-color: rgb(247, 247, 231);
+  }
+  
+  .hero-image .container {
+    max-width: 1408px;
+    text-align: center;
+    color: #fea18d;
+  }
+  .hero-image p {
+color: beige;
+    font-size: 16px;
+    line-height: 5px;
+  }
+
+  .user-image {
+    margin: 0 0 32px;
+    text-align: center;
+  }
+
+  .page-footer a {
+    margin-left: 56px;
+    color: #fea18d;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-position: left;
+  }
+  
+  .footer-email {
+    padding-left: 30px;
+    background-image: url("img/icon-email.svg");
+  }
+  
+  .footer-phone {
+    padding-left: 25px;
+    background-image: url("img/icon-phone.svg");
+  }
+  h4 {
+    margin: 0 0 12px;
+    font-size: 20px;
+    padding-bottom: 5px;
+    color: #fea18d;
+  }
+  
+  
+
+
