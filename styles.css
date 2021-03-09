@@ -13,30 +13,12 @@ body {
     padding: 0 16px; 
   }
 
-  .page-header .container,
+
   .page-footer .container {
     max-width: 1408px;
     text-align: right;
     background-color: rgb(247, 247, 231);
   }
-  .page-header a {
-    margin-left: 56px;
-    color: #fea18d;
-    text-decoration: none;
-    background-repeat: no-repeat;
-    background-position: left;
-  }
-  
-  .header-email {
-    padding-left: 30px;
-    background-image: url("img/icon-email.svg");
-  }
-  
-  .header-phone {
-    padding-left: 25px;
-    background-image: url("img/icon-phone.svg");
-  }
-
   
   .hero-image .container {
     max-width: 1408px;
@@ -77,6 +59,7 @@ color: beige;
     padding-bottom: 5px;
     color: #fea18d;
   }
+  
   
 
 
