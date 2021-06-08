@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100vh;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 900px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.nav {
+  width: 100%;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  l
+}
+
+.menu li {
+  margin: 0 10px;
+}
+
+.menu a {
+  text-decoration: none;
+}
