@@ -1,0 +1,53 @@
+.car {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin-top: -60px;
+  margin-left: 110px;
+
+  fill: #10ecda;
+}
+
+.car-a,
+.car-b {
+  width: 36px;
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 10px;
+  color: #95b399;
+  text-transform: uppercase;
+  letter-spacing: 1.25px;
+  background: #000000;
+  border: 1px solid rgb(195, 221, 197);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+// .car-a:hover,
+// .car-b:hover {
+//   border: 4px solid rgb(7, 243, 19);
+// }
+
+.car-btn-active {
+  color: rgb(7, 243, 19);
+  border: 2px solid rgb(7, 243, 19);
+}
+
+#car-select,
+#car-remove {
+  margin-bottom: 5px;
+}
+
+.line {
+  margin-top: -30px;
+  border-top: 1px dashed white;
+}
+
+.flag {
+  float: right;
+  width: 70px;
+  height: 70px;
+  margin-top: -67px;
+  margin-right: 100px;
+  background-image: url(../../assets/red-flag.png);
+}
